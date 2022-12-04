@@ -1,3 +1,7 @@
 # gitLoginTest
  testLocalRepoKC
- 12 12 7
+ 12 12 
+
+ 7
+
+ 3
